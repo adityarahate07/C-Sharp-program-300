@@ -73,7 +73,7 @@ By completing these 300 programs, I have gained confidence in C# syntax, improve
 
 Author
 
-Name: Yash Patil
+Name: Aditya Rahate
 
 Department: CSD
 
